@@ -1,8 +1,28 @@
 body{
 
-	background-color: blue;
+	background-color: #1E90FF;
+	color: #FFFFF0
 	
+	margin-right: 50%
+	margin-left: 50%
 }
 
+h1{
+	text-align: center;
+}
 
+p{
+text-align: justify;
 
+}
+img{
+
+	width: 70%
+}
+figure{
+text-align: center;
+
+}
+h2{
+	text-align: center;
+}
